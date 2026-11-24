@@ -1,0 +1,6 @@
+{
+  "name": "TapOyna — Match & Payment Lifecycle Simulator",
+  "description": "Interactive product, state-machine, and fintech simulator for the TapOyna Baku 5x5 mini-football platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
